@@ -1,7 +1,7 @@
-<h1 align="center" style="color:orange;">🟠 Azizullah Naik – Python | ML | Data Science | Computer Vision</h1>
+<h1 align="center">🟠 <strong>Azizullah Naik</strong> – Python | ML | Data Science | Computer Vision</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNjMGVtbGd3cW54d3lrczJpYWd3ZDRhdWlhMnBjdjA3Z3VmZ3l4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320"/>
 </p>
 
 <p align="center">
