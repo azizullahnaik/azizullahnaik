@@ -1,6 +1,6 @@
 <!-- Orange Gradient Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500,F77F00&height=200&section=header&text=HI%20I%20Am%20Azizullah%20Naik!&fontColor=ffffff&fontSize=35&fontAlign=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F50,FFB347&height=200&section=header&text=HI%20I%20Am%20Azizullah%20Naik!&fontColor=ffffff&fontSize=35&fontAlign=40" />
 </p>
 
 <p align="center">
