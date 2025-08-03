@@ -1,6 +1,6 @@
-<!-- Light Orange Welcome Banner -->
+<!-- Dark Purple Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD580&height=200&section=header&text=HI%20I%20Am%20Azizullah%20Naik!&fontColor=000000&fontSize=35&fontAlign=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=200&section=header&text=HI%20I%20Am%20Azizullah%20Naik!&fontColor=ffffff&fontSize=35&fontAlign=40" />
 </p>
 
 <p align="center">
