@@ -1,8 +1,12 @@
-<h1 align="center">🟠 <strong>Azizullah Naik</strong> – Python | ML | Data Science | Computer Vision</h1>
+<!-- Orange Gradient Welcome Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500,F77F00&height=200&section=header&text=HI%20I%20Am%20Azizullah%20Naik!&fontColor=ffffff&fontSize=35&fontAlign=40" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNjMGVtbGd3cW54d3lrczJpYWd3ZDRhdWlhMnBjdjA3Z3VmZ3l4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320"/>
 </p>
+
 
 <p align="center">
   <b>Data Scientist | Machine Learning Engineer | Computer Vision Enthusiast | Python Developer</b>
