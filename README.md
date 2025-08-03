@@ -1,11 +1,11 @@
-#<h1 align="center">Hi there, I'm <span style="color:orange;">Your Name</span> 👋</h1>
+<h1 align="center" style="color:orange;">🟠 Azizullah Naik – Python | ML | Data Science | Computer Vision</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  <b>Data Scientist | Machine Learning Developer | Computer Vision Enthusiast | Python Developer</b>
+  <b>Data Scientist | Machine Learning Engineer | Computer Vision Enthusiast | Python Developer</b>
 </p>
 
 ---
@@ -30,14 +30,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🧰 Featured Projects
-
-- 🔍 **AI-Powered Image Classifier** – Built using CNNs with TensorFlow and Keras  
-- 📊 **End-to-End Data Pipeline** – From raw data cleaning to model deployment with MLflow  
-- 🤖 **Computer Vision Toolkit** – Custom OpenCV modules for object detection and tracking
 
 ---
 
